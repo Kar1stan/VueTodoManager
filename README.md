@@ -1,31 +1,38 @@
-# Todo App
-
-<h3>Deployed  Link</h3>
-<ul>
-<li>
-<a  href="https://todoapp-one-ashy.vercel.app/">🔗 Visit Site Todo App 🌐</a>
-</li>
-</ul>
-
-## Tech stack :
-### Frontend :
-- Vue js
-- CSS
-- Javascript
+# ReactTaskManagementApp
+***
+Task Management application on React.js
 
 
-## Run Locally :
-Clone the Project
+## 💻 Topics
+
+Integrated with:
+
+- [x] https://vuejs.org/
+
+
+## 💻 Pre-requisites
+
+Before you use this project you only need to have Node.js installed in your computer.
+
+https://nodejs.org/es/download/
+
+Also delete package.lock file before you run your project.
+
+### Git clone
+This will clone the project, install NPM packages.
 ```
-https://github.com/kundan799/Todo_App
-``` 
-
-Install Dependencies
-```
-npm install
+$ git clone https://github.com/Kar1stan/VueTodoManager.git
+$ cd VueTodoManager
+$ npm install
 ```
 
-Run App
+## 🚀 Run the project
+To run the project open terminal and  run the command:
 ```
-npm run serve
+$ npm run serve
 ```
+## Credits
+For further help or additional errors [here](https://ru.reactjs.org/)
+
+
+
