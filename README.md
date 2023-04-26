@@ -1,6 +1,6 @@
-# ReactTaskManagementApp
+# VueTaskManagementApp
 ***
-Task Management application on React.js
+Task Management application on Vue.js
 
 
 ## 💻 Topics
